@@ -1,20 +1,32 @@
-# 💫 About Me:
-🔭 I'm currently working on a GPS Navigation system using Navit, developing my game MIssiles and work on MSME websites.<br>👯 I'm looking to collaborate on radio astronomy, image processing and web development.<br>🤝 I'm looking for help with integrating lightweight mechanics, electronics, and control systems for flapping-wing propulsion.<br>🌱 I'm currently learning edge AI acceleration, GNSSs, and FPGA-based network threat detection.<br>💬 Ask me about life<br>⚡ Fun fact: Can yap on philosophy but not on physics.
+# 💫 Bharat Kumar Saxena
+Embedded Systems engineer & Full-Stack Developer bridging the gap between hardware, low-level software, and modern web tech. 
 
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="28">](https://linkedin.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bharat-kumar-saxena/) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-<!--# 📊 GitHub Stats:-->
-<!--![](https://github-readme-stats.shion.dev/api?username=Foolish-Genius&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-<!--![](https://streak-stats.demolab.com/?user=Foolish-Genius&theme=dark&hide_border=false)<br/>-->
-<!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=Foolish-Genius&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+### 🛠️ What I'm Building & Learning
+* **Current Focus:** Developing **Missiles** (a custom game implementation) and building performant web platforms for **MSMEs**.
+* **Research & Deep Dives:** Accelerating **Edge AI hardware**, mastering modern **GNSS** architectures, and deploying **FPGA-based** threat detection for network routing.
+* **Open to Collaborate:** Anything involving **Radio Astronomy data pipelines**, advanced **Image Processing**, or core hardware-software integration.
 
-### ✍️ Random Dev Quote
-Don't waste your life worrying about tomorrow when today's adventure is waiting!
-                                                              ~ Monkey D. Luffy
+> 🤝 **Looking for hardware peers:** Let's connect if you have experience integrating lightweight mechanics, custom electronics, and control theory for **flapping-wing ornithopter propulsion**.
 
-<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+---
 
+### 💻 Technical Architecture
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Core** | C, Python, JavaScript, LaTeX, CUDA |
+| **Frameworks & Web** | React, Next.js, FastAPI, Vite, TailwindCSS, Bootstrap |
+| **Data & Intelligence** | PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy |
+| **Databases & Infra** | PostgreSQL, MongoDB, MySQL, Firebase, Cloudflare, Netlify |
+| **Hardware & Systems** | Arduino, Raspberry Pi, Tor Project networking |
+| **Design & Media** | Figma, Photoshop, Lightroom |
+
+---
+
+### ✍️ Perspective
+> *"Don't waste your life worrying about tomorrow when today's adventure is waiting!"*  
+> — **Monkey D. Luffy**
